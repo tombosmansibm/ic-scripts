@@ -16,3 +16,4 @@ export APPLICATIONSECURITYINPUTFILE=/tmp/modified-roles.txt
 cd <dmgr_profile_root>/bin
 ./wsadmin.sh -lang jython -f <path-to-file>/044.SETAPPLICATIONSECURITY.py
 ```
+Tom
